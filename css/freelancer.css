@@ -113,6 +113,10 @@ header .intro-text .skills {
     font-weight: 300;
 }
 
+header .home {
+        margin-top: 200px;
+    }
+
 @media(min-width:768px) {
     header .container {
         padding-top: 200px;
@@ -125,10 +129,6 @@ header .intro-text .skills {
 
     header .intro-text .skills {
         font-size: 1.75em;
-    }
-
-    header .home {
-        margin-top: 20px;
     }
 }
 

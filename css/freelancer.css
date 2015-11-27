@@ -114,7 +114,7 @@ header .intro-text .skills {
 }
 
 header .comtainer .row .home {
-    margin-bottom: 125px;
+    margin-top: 125px;
 }
 
 @media(min-width:768px) {

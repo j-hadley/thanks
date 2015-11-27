@@ -111,7 +111,6 @@ header .intro-text .name {
 header .intro-text .skills {
     font-size: 1.25em;
     font-weight: 300;
-    padding-bottom: 125px;
 }
 
 @media(min-width:768px) {

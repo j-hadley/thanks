@@ -117,15 +117,6 @@ header .home {
         margin-top: 125px;
     }
 
-header.home a,
-header.home a:hover,
-header.home a:focus,
-header.home a:active,
-header.home a.active {
-    outline: 0;
-    color: #fff;
-}
-
 @media(min-width:768px) {
     header .container {
         padding-top: 200px;

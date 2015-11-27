@@ -126,6 +126,10 @@ header .intro-text .skills {
     header .intro-text .skills {
         font-size: 1.75em;
     }
+
+    header .home {
+        margin-top: 20px;
+    }
 }
 
 @media(min-width:768px) {

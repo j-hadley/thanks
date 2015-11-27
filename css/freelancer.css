@@ -111,19 +111,7 @@ header .intro-text .name {
 header .intro-text .skills {
     font-size: 1.25em;
     font-weight: 300;
-}
-
-header .home {
-        margin-top: 125px;
-    }
-
-header.home button,
-header.home button:hover,
-header.home button:focus,
-header.home button:active,
-header.home button.active {
-    outline: 0;
-    color: #fff;
+    margin-bottom: 125px;
 }
 
 @media(min-width:768px) {

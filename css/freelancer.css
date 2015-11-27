@@ -95,6 +95,11 @@ header img {
     margin: 0 auto 20px;
 }
 
+header .thanks .skills {
+    font-size: 4em;
+    font-weight: 300;
+}
+
 header .intro-text .name {
     display: block;
     text-transform: uppercase;

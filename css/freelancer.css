@@ -117,6 +117,15 @@ header .home {
         margin-top: 125px;
     }
 
+header.home button,
+header.home button:hover,
+header.home button:focus,
+header.home button:active,
+header.home button.active {
+    outline: 0;
+    color: #fff;
+}
+
 @media(min-width:768px) {
     header .container {
         padding-top: 200px;

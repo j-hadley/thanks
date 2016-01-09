@@ -98,7 +98,7 @@ header {
 .banner {
     background-image: url(/images/door-banner.svg);
     background-attachment: fixed;
-    background-size: 100% auto;
+    background-size: 100% 100%;
 }
 
 header .container {

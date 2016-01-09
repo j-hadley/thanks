@@ -118,7 +118,11 @@ header .intro-text {
     padding-right: 450px;
 }
 
-header .intro-text .name {
+header .intro-text-thanks {
+    padding-top: 13px;
+    padding-right: 450px;
+
+header .intro-text .thanks {
     display: block;
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;

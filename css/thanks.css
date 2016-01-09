@@ -96,7 +96,7 @@ header {
 }
 
 .banner {
-    background-image: url(/images/door-banner.jpeg);
+    background-image: url(/images/door-banner.png);
     background-attachment: fixed;
     display: block;
     background-repeat: none;

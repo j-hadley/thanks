@@ -328,7 +328,8 @@ section.success a.active {
 }
 
 .btn-outline {
-    margin-top: 125px;
+    margin-top: 15px;
+    padding-top: 20px;
     border: none;
     font-size: 20px;
     color: #fff;

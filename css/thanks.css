@@ -169,6 +169,10 @@ content: "\f005";
     padding-bottom: 40px;
 }
 
+.home-button {
+    padding-top: 20px;
+}
+
 @media(min-width:768px) {
     header .container {
         padding-top: 200px;

@@ -328,8 +328,8 @@ section.success a.active {
 }
 
 .btn-outline {
-    margin-top: 15px;
-    border: solid 2px #fff;
+    margin-top: 125px;
+    border: none;
     font-size: 20px;
     color: #fff;
     transition: all .3s ease-in-out;
@@ -339,8 +339,6 @@ section.success a.active {
 .btn-outline:focus,
 .btn-outline:active,
 .btn-outline.active {
-    border: none;
-    border-radius: 100%;
     color: #31271c;
     background: #574f46;
 }

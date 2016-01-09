@@ -98,6 +98,7 @@ header {
 .banner {
     background-image: url(/images/door-banner.svg);
     background-attachment: fixed;
+    display: block;
     background-repeat: none;
     background-size: auto auto;
 }

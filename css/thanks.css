@@ -339,7 +339,8 @@ section.success a.active {
 .btn-outline:focus,
 .btn-outline:active,
 .btn-outline.active {
-    border: solid 2px #fff;
+    border: none;
+    border-radius: 100%;
     color: #31271c;
     background: #574f46;
 }

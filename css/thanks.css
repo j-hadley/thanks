@@ -172,7 +172,7 @@ content: "\f005";
 }
 
 .home-button {
-    padding-top: 20px;
+    padding-top: 50px;
 }
 
 @media(min-width:768px) {
@@ -329,7 +329,6 @@ section.success a.active {
 
 .btn-outline {
     margin-top: 15px;
-    padding-top: 20px;
     border: none;
     font-size: 20px;
     color: #fff;

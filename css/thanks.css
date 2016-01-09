@@ -100,7 +100,7 @@ header {
     background-attachment: fixed;
     display: block;
     background-repeat: none;
-    background-size: auto auto;
+    background-size: 100% auto;
 }
 
 header .container {

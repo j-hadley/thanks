@@ -174,12 +174,6 @@ content: "\f005";
     padding-top: 70px;
 }
 
-@media(min-width:430px) {
-    header .banner {
-        background-color: #fdf7ef;
-    }
-}
-
 @media(min-width:768px) {
     header .container {
         padding-top: 200px;
@@ -188,6 +182,12 @@ content: "\f005";
 
     header .intro-text .name {
         font-size: 1em;
+    }
+}
+
+@media(min-width:430px) {
+    header .banner {
+        background-color: #fdf7ef;
     }
 }
 

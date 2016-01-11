@@ -185,12 +185,6 @@ content: "\f005";
     }
 }
 
-@media(min-width:430px) {
-    header .banner {
-        background-color: #fdf7ef;
-    }
-}
-
 @media(min-width:768px) {
     .navbar-fixed-top {
         padding: 25px 0;
@@ -329,6 +323,12 @@ section.success a.active {
 @media(min-width:767px) {
     #portfolio .portfolio-item {
         margin: 0 0 30px;
+    }
+}
+
+@media(min-width:430px) {
+    header .banner {
+        background-color: #fdf7ef;
     }
 }
 

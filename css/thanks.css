@@ -174,7 +174,7 @@ content: "\f005";
     padding-top: 70px;
 }
 
-@media(max-width:340px) {
+@media(max-width:430px) {
     header .banner {
         background-color: #fdf7ef;
     }

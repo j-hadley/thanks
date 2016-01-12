@@ -100,7 +100,7 @@ header {
     background-attachment: fixed;
     display: block;
     background-repeat: none;
-    background-size: 100% 100%;
+    background-size: 100% 105%;
 }
 
 header .container {
@@ -161,7 +161,7 @@ content: "\f005";
 .port-background {
     background-image: url(/images/open-door.svg);
     background-attachment: fixed;
-    background-size: 100% 110%;
+    background-size: 100% 100%;
 }
 
 .top-button {

@@ -172,6 +172,7 @@ content: "\f005";
 
 .home-button {
     padding-top: 70px;
+    padding-bottom: 100px;
 }
 
 @media(max-width:738px) {
